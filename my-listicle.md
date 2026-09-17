@@ -6,7 +6,7 @@
 ## :fish: Texas Hold'em :whale:
 ![A Game of Texas Hold'em Poker](https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Poker-Texas-Holdem-multiplayer.jpg/960px-Poker-Texas-Holdem-multiplayer.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
-[Rules](https://bicyclecards.com/how-to-play/texas-holdem-poker)
+[**Rules**](https://bicyclecards.com/how-to-play/texas-holdem-poker)
 
 [World Poker Tour](https://www.worldpokertour.com/)
 
